@@ -25,8 +25,12 @@
             "name": "Veyronity"
         },
         {
-            "name": "davegam",
-            "uuid": "e9623b91-1be0-4242-92c8-659db89d1b5d"
+            "uuid": "e9623b91-1be0-4242-92c8-659db89d1b5d",
+            "name": "davegam"
+        },
+        {
+            "uuid": "ce48ee6a-d83b-4604-a8ae-7f14abec5d66",
+            "name": "77Dervish"
         }
     ]
 }
